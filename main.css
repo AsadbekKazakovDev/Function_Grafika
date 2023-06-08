@@ -1,0 +1,56 @@
+body {
+    /* border: 2px solid #ccc; */
+    padding: 30px;
+    background-color: chartreuse;
+}
+
+.my-function-section {
+    border: 1px solid rgb(67, 210, 54);
+    width: 1200px;
+    height: 150px;
+    border-radius: 5px;
+    background-color: rgb(16, 168, 97);
+}
+
+label {
+    font-weight: 600;
+}
+
+* {
+    user-select: none;
+}
+
+.comment {
+    text-align: center;
+    margin-top: 50px;
+    border: 1px solid rgb(14, 120, 129);
+    /* color: #212529; */
+    width: 1000px;
+    margin-left: 16%;
+    border-radius: 5px;
+}
+
+.about {
+    /* height: 100px; */
+    margin-top: 100px;
+    width: 590px;
+    font-weight: 900;
+    margin-left: 32%;
+    border: 1px solid rgb(67, 210, 54);
+    ;
+    text-align: center;
+    padding-top: 11px;
+    border-radius: 11px;
+    border-color: rgb(49, 19, 157);
+    background-color: aquamarine;
+}
+
+.about li {
+    /* color: #212529; */
+    list-style: none;
+}
+
+.about a {
+    text-decoration: none;
+    display: block;
+}
